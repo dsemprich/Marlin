@@ -22,7 +22,7 @@
 #pragma once
 
 //JUST uncomment the option for your machine
-// #define V6_330_TITAN_TMC 1
+ #define V6_330_TITAN_TMC 1
 // #define V6_330_TITAN_NO_TMC 1
 // #define V6_330_NO_TITAN_TMC 1
 // #define V6_330_NO_TITAN_NO_TMC 1
@@ -57,7 +57,7 @@
 
 // #define BTT_SKR_TURBO_330_NO_TITAN_TMC_2209_UART 1
 
-// #define TFT_LVGL_UI
+ #define TFT_LVGL_UI
 // #define TFT_CLASSIC_UI
 // #define TFT_COLOR_UI
 
